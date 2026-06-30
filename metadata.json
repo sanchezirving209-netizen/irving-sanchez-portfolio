@@ -1,0 +1,8 @@
+{
+  "name": "Portafolio de Irving Sanchez",
+  "description": "Portafolio profesional de Irving Sanchez, Ingeniero en Aeronáutica y desarrollador tecnológico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
